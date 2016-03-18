@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-zero-plus-x",
+  "version": "0.1.0",
+  "description": "Shared ESLint config for 0+X projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero-plus-x/ESLint-Config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "0+x"
+  ],
+  "contributors": [
+    "Nikita Dudnik <nikdudnik@gmail.com>"
+  ],
+  "license": "MIT"
+}
