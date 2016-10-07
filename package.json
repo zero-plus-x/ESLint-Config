@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Shared ESLint config for 0+X projects.",
   "main": "index.js",
+  "peerDependencies": {
+    "eslint-config-standard": "^6.2.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zero-plus-x/eslint-config-0x.git"
